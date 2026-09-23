@@ -1,0 +1,12 @@
+[
+  { "id": 1, "business": "Summit Roofing Co.", "contact": "Mark Delgado", "email": "mark@summitroofing.com", "phone": "(303) 555-0142", "industry": "Roofing", "source": "Google Maps", "verified": true, "dateAdded": "2026-09-02" },
+  { "id": 2, "business": "Ace Home Exteriors", "contact": "Linda Park", "email": "linda@acehomeext.com", "phone": "(614) 555-0198", "industry": "Roofing", "source": "Google Maps", "verified": true, "dateAdded": "2026-09-03" },
+  { "id": 3, "business": "GreenLeaf Landscaping", "contact": "Tom Brady", "email": "info@greenleaflandscape.com", "phone": "(512) 555-0110", "industry": "Landscaping", "source": "Apollo.io", "verified": false, "dateAdded": "2026-09-04" },
+  { "id": 4, "business": "Bluewater Plumbing", "contact": "Sam Cole", "email": "sam@bluewaterplumb.com", "phone": "(206) 555-0177", "industry": "Plumbing", "source": "Google Maps", "verified": true, "dateAdded": "2026-09-05" },
+  { "id": 5, "business": "Redline HVAC Services", "contact": "Priya Nair", "email": "priya@redlinehvac.com", "phone": "(404) 555-0163", "industry": "HVAC", "source": "Google Maps", "verified": true, "dateAdded": "2026-09-06" },
+  { "id": 6, "business": "Northgate Electric", "contact": "Dave Whitman", "email": "dave@northgateelectric.com", "phone": "(720) 555-0121", "industry": "Electrical", "source": "Apollo.io", "verified": false, "dateAdded": "2026-09-07" },
+  { "id": 7, "business": "Coastal Painting Pros", "contact": "Maria Gomez", "email": "maria@coastalpaintingpros.com", "phone": "(619) 555-0189", "industry": "Painting", "source": "Google Maps", "verified": true, "dateAdded": "2026-09-08" },
+  { "id": 8, "business": "Apex Roofing & Repair", "contact": "Kevin Shaw", "email": "kevin@apexroofrepair.com", "phone": "(214) 555-0155", "industry": "Roofing", "source": "Google Maps", "verified": true, "dateAdded": "2026-09-09" },
+  { "id": 9, "business": "TrueGrade Concrete", "contact": "Angela Ruiz", "email": "angela@truegradeconcrete.com", "phone": "(602) 555-0133", "industry": "Concrete", "source": "Apollo.io", "verified": false, "dateAdded": "2026-09-10" },
+  { "id": 10, "business": "Pinnacle Pest Control", "contact": "James Ito", "email": "james@pinnaclepest.com", "phone": "(503) 555-0147", "industry": "Pest Control", "source": "Google Maps", "verified": true, "dateAdded": "2026-09-11" }
+]
