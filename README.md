@@ -1,7 +1,7 @@
 # Lead Generation Dashboard
 
 A React frontend that visualizes verified business leads produced by an **n8n automation pipeline** — the kind of pipeline I build for clients through [VarahiAI](https://varahiai.com).
-
+ 
 ## What it does
 
 - Displays leads pulled from a Google Maps → Outscraper → NeverBounce verification workflow
@@ -32,7 +32,7 @@ Then open the local URL Vite prints (usually `http://localhost:5173`).
 npm run build
 npm run preview
 ```
-
+   🔗 **Live demo:** https://lead-dashboard-six-beta.vercel.app
 ## Background
 
 I'm a freelance web developer (WordPress/PHP, 10 years) who has moved into building AI/automation workflows with n8n — this dashboard connects both sides: real backend automation, paired with a clean frontend to make the output usable for a non-technical team.
